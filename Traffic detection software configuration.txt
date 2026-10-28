@@ -1,0 +1,6 @@
+BRAIN TUMOR PREDICTION
+
+
+FRONT END       :GUI
+IDE                      :python 3.10.8(idle)
+operating system:  windows(8/10)
